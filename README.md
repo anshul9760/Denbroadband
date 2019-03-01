@@ -1,2 +1,5 @@
-# denbroadband
-This Scripts shows remaining internet and days only for Den Broadband
+# Denbroadband
+
+* Libraries : Selenium, Webdriver, Tkinter
+
+* Do add Email and Password within script {To keep it simple}
